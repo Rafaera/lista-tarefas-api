@@ -1,30 +1,40 @@
-API de Gerenciamento de Tarefas
+# API de Gerenciamento de Tarefas
 
-Este projeto é uma API REST para gerenciamento de tarefas, desenvolvida utilizando Java 17 e Spring Boot 3.
-A API permite criar, listar, atualizar e excluir tarefas, organizando-as por prioridade e categoria.
+Este projeto é uma API REST para gerenciamento de tarefas, desenvolvida com Java 17 e Spring Boot 3. A implementação foi realizada com base no aprendizado adquirido durante o Bootcamp Decola Tech da DIO.
 
-🚀 Tecnologias Utilizadas
+---
+## Funcionalidades da API
 
-Java 17
+- Criar uma nova tarefa
 
-Spring Boot 3
+- Listar todas as tarefas
 
-Spring Data JPA (para interagir com o banco de dados)
+- Buscar uma tarefa pelo ID
 
-H2 Database (banco de dados em memória para testes locais)
+- Atualizar uma tarefa
 
-Swagger (OpenAPI) (para documentação da API)
+- Excluir uma tarefa
 
-Railway (para deploy na nuvem)
+---
+## Tecnologias Utilizadas
 
-📌 Funcionalidades da API
+- Java (versão 17)
 
-Criar uma nova tarefa
+- IntelliJ IDEA como ambiente de desenvolvimento
 
-Listar todas as tarefas
+- Spring Boot 3
 
-Buscar uma tarefa pelo ID
+- Spring Data JPA (para interagir com o banco de dados)
 
-Atualizar uma tarefa
+- H2 Database (banco de dados em memória para testes locais)
 
-Excluir uma tarefa
+- Swagger (OpenAPI) (para documentação da API)
+
+- Railway (para deploy na nuvem)
+
+<p align="center">
+  <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img alt="IntelliJ IDEA" title="IntelliJ IDEA" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
+  <img alt="Spring Boot" title="Spring Boot" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+  <img alt="Swagger" title="Swagger" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"/>
+  <img alt="Railway" title="Railway" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg"/>
