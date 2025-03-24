@@ -44,12 +44,12 @@ Este projeto é uma API REST para gerenciamento de tarefas, desenvolvida com Jav
 
 ## Deploy na Railway
 
-A API foi implantada na Railway, uma plataforma de deploy na nuvem. Para acessar clique no link abaixo:
+A API foi implantada na Railway, uma plataforma de deploy na nuvem. Para acessar utilize o link abaixo:
 
-[Deploy na Railway](lista-tarefas-api-production.up.railway.app)
+``https://lista-tarefas-api-production.up.railway.app/``
 
 ## Documentação da API
 
-A documentação da API foi gerada com o Swagger/OpenAPI. Para acessar clique no link abaixo:
+A documentação da API foi gerada com o Swagger/OpenAPI. Para acessar utilize o link abaixo:
 
-[Documentação da API](lista-tarefas-api-production.up.railway.app/swagger-ui.html)
+``https://lista-tarefas-api-production.up.railway.app/swagger-ui.html``
